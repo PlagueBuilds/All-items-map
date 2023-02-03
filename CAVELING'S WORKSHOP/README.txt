@@ -3,7 +3,7 @@ Made by Plague Builds
 Our dear friend and member of Plague Builds, PapaINK, unfortunately passed away on december 18.
 We will miss you INK, thanks for everything, rest in piece.
 
-Special thanks to Core Keeper developers Cubs, David and Bridie for helping us out.
+Special thanks to Core Keeper developers Cubs, Ceddini and Bridie for helping us out.
 
 Special thanks to Kremnev8 for making mods we needed for the project.
 
