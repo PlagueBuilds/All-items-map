@@ -1,7 +1,7 @@
 Made by Plague Builds
 
 Our dear friend and member of Plague Builds, PapaINK, unfortunately passed away on december 18.
-We will miss you INK, thanks for everything, rest in piece.
+We will miss you INK, thanks for everything, rest in peace.
 
 Special thanks to Core Keeper developers Cubs, Ceddini and Bridie for helping us out.
 
