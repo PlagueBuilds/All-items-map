@@ -1,4 +1,4 @@
-# All-items-map
+# All items map - Caveling's Workshop
 Made by Plague Builds
 <img>![storage](https://user-images.githubusercontent.com/124402987/216842885-2f7c1aac-2efd-4516-9071-e339960cb95f.png)
 
@@ -87,4 +87,15 @@ For questions, suggestions, problems, and more, join our Discord server:
 
 <a href=https://discord.gg/9YXPrPcK>Plague Builds Discord server</a>
 
-# Here are some screenshots from our map
+# Cool stuff you can find on our map
+
+A small but amazing excavation site!!!<br>
+![fosil](https://user-images.githubusercontent.com/124402987/216847948-cedecfc7-85c4-44f2-bccc-6cc02fa08943.png)<br>
+The GRAND ENTERANCE<br>
+![enterance](https://user-images.githubusercontent.com/124402987/216847961-ac1fa4dd-5525-4182-874e-64e8a93cb8c9.png)<br>
+Themed NPC housing<br>
+![npchousing](https://user-images.githubusercontent.com/124402987/216847971-cbc0a079-064a-4526-b89d-05d103684b40.png)<br>
+Our AFK farm<br>
+![afkfarm](https://user-images.githubusercontent.com/124402987/216848059-ce76e977-c252-4b67-9066-e194f26320f9.png)<br>
+
+
