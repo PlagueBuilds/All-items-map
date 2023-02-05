@@ -99,4 +99,7 @@ Themed NPC housing<br>
 Our AFK farm<br>
 ![afkfarm](https://user-images.githubusercontent.com/124402987/216848059-ce76e977-c252-4b67-9066-e194f26320f9.png)<br>
 
+Cozy crafting area<br>
+![crafting](https://user-images.githubusercontent.com/124402987/216848264-2be3a7ee-89a3-4f85-9c79-7acf1d97f83e.png)<br>
+
 
