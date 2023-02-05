@@ -8,6 +8,8 @@ Made by Plague Builds
 <a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#cool-builds-you-can-find-on-our-world title="Cool builds you can find on our world">Cool Builds you can find on our world</a><br>
 
 
+<a href=https://discord.gg/9YXPrPcK>Plague Builds Discord server</a>
+
 The map includes
 <ul>
   <li>Every obtainable item in the game (except food combinations that's too much work XD)</li>
