@@ -107,6 +107,10 @@ Cozy crafting area<br>
 Small fishing pond to chill :)<br>
 ![Fishing pond](https://user-images.githubusercontent.com/124402987/216850296-001c65f7-cf84-43a2-91b8-015d5111fa3b.png)<br>
 
+Science Lab<br>
+![crystal drill](https://user-images.githubusercontent.com/124402987/216850653-f60735e4-a2fc-48ee-b195-8a1c7bf5b447.png)<br>
+
+
 
 AND MUCH MORE !!!!
 
