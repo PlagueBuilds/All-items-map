@@ -5,6 +5,11 @@ Made by Plague Builds
 # JUMP TO
 <a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#how-do-i-add-the-map title="How do I add the map">How do I add the map</a>
 
+
+
+
+
+
 The map includes
 <ul>
   <li>Every obtainable item in the game (except food combinations that's too much work XD)</li>
@@ -16,6 +21,8 @@ The map includes
 </ul>
 
 AND MUCH MORE !!!
+
+![forge](https://user-images.githubusercontent.com/124402987/216847733-9742a57a-8d50-4f0d-b252-31f0b15957d1.png)
 
 # How do I add the map?
 
