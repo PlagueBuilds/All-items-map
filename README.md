@@ -2,6 +2,8 @@
 Made by Plague Builds
 <img>![storage](https://user-images.githubusercontent.com/124402987/216842885-2f7c1aac-2efd-4516-9071-e339960cb95f.png)
 
+# JUMP TO
+
 The map includes
 <ul>
   <li>Every obtainable item in the game (except food combinations that's too much work XD)</li>
@@ -49,29 +51,25 @@ LadySol- thanks for being a great leader and investing so much time in this proj
 
 Thanks to all builders who made this map look a billion times better :
 
-Arch
-
-Draegon
-
-Muffin
-
-PapaINK
-
-DarkOfStar
+Arch<br><br>
+Draegon<br>
+Muffin<br>
+PapaINK<br>
+DarkOfStar<br>
 
 Thanks to everyone who explored, mined, found and much more...
 
-Bean
+Bean<br>
 Keegan <br>
 Mad Scientist<br>
 Quaxly<br>
-Lowka
-Airwavess
-Trash
-Skyflare
-Nedaru
-DarkTemption
-Toasted Tomato
+Lowka<br>
+Airwavess<br>
+Trash<br>
+Skyflare<br>
+Nedaru<br>
+DarkTemption<br>
+Toasted Tomato<br>
 
 We spent hundreds of hours trying to make this as good as possible. The map will be updated regularly. We hope you will like it guys, have fun :D
 
