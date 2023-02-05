@@ -102,4 +102,8 @@ Our AFK farm<br>
 Cozy crafting area<br>
 ![crafting](https://user-images.githubusercontent.com/124402987/216848264-2be3a7ee-89a3-4f85-9c79-7acf1d97f83e.png)<br>
 
+AND MUCH MORE !!!!
 
+The map will be regularly updated, and more projects are planned in the future. Thanks for the support, we hope you will enjoy.
+
+BLIX, owner of Plague Builds
