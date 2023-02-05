@@ -30,6 +30,8 @@ Example:
 
 In this case you would want to rename our world file to 5.world.gzip because that's the first empty slot.
 
+NOTICE. If you are trying to replace a world and it keeps reverting to an old one, it's because of the backup file, which needs to be deleted in order to fix that issue.
+
 # More about Plague Builds
 
 First of all i want to say thanks to everyone that contributed to making this map
