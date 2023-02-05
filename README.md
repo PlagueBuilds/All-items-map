@@ -5,7 +5,7 @@ Made by Plague Builds
 # JUMP TO
 <a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#how-do-i-add-the-map title="How do I add the map">How do I add the map</a><br>
 <a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#more-about-plague-builds title="More about Plague Builds">More about Plague Builds</a><br>
-<a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#cool-stuff-you-can-find-on-our-map title="Cool things you can find on our world">Cool Builds you can find on our world</a><br>
+<a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#cool-builds-you-can-find-on-our-world title="Cool builds you can find on our world">Cool Builds you can find on our world</a><br>
 
 
 The map includes
