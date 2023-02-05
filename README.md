@@ -15,3 +15,7 @@ The map includes
 AND MUCH MORE !!!
 
 # How do i add the map?
+
+Start by downloading the zip file called All items map.
+Next step is to navigate to your "worlds" folder for Core Keeper.
+![worlds folder navigation](https://user-images.githubusercontent.com/124402987/216844866-b6fce9d7-8167-42f7-957b-ad58ab7c96f8.png)
