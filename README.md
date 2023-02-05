@@ -110,6 +110,8 @@ Small fishing pond to chill :)<br>
 Science Lab<br>
 ![crystal drill](https://user-images.githubusercontent.com/124402987/216850653-f60735e4-a2fc-48ee-b195-8a1c7bf5b447.png)<br>
 
+Fishing spot with different biom liquids<br>
+![fishing](https://user-images.githubusercontent.com/124402987/216852273-1167dec4-5958-4469-9a29-9f13c7bc0da4.png)<br>
 
 
 AND MUCH MORE !!!!
