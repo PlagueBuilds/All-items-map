@@ -5,7 +5,7 @@ Made by Plague Builds
 # JUMP TO
 <a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#how-do-i-add-the-map title="How do I add the map">How do I add the map</a><br>
 <a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#more-about-plague-builds title="More about Plague Builds">More about Plague Builds</a><br>
-<a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#cool-stuff-you-can-find-on-our-map title="Cool things you can find on our world">Cool things you can find on our world</a><br>
+<a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#cool-stuff-you-can-find-on-our-map title="Cool things you can find on our world">Cool Builds you can find on our world</a><br>
 
 
 The map includes
@@ -85,7 +85,7 @@ For questions, suggestions, problems, and more, join our Discord server:
 
 <a href=https://discord.gg/9YXPrPcK>Plague Builds Discord server</a>
 
-# Cool stuff you can find on our map
+# Cool builds you can find on our world
 
 A small but amazing excavation site!!!<br>
 ![fosil](https://user-images.githubusercontent.com/124402987/216847948-cedecfc7-85c4-44f2-bccc-6cc02fa08943.png)<br>
