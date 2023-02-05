@@ -62,24 +62,15 @@ DarkOfStar
 Thanks to everyone who explored, mined, found and much more...
 
 Bean
-
 Keegan <br>
-Mad Scientist
-
-Quaxly
-
+Mad Scientist<br>
+Quaxly<br>
 Lowka
-
-<b><i>Airwavess<i><b>
-
+Airwavess
 Trash
-
 Skyflare
-
 Nedaru
-
 DarkTemption
-
 Toasted Tomato
 
 We spent hundreds of hours trying to make this as good as possible. The map will be updated regularly. We hope you will like it guys, have fun :D
