@@ -104,7 +104,7 @@ Our AFK farm<br>
 Cozy crafting area<br>
 ![crafting](https://user-images.githubusercontent.com/124402987/216848264-2be3a7ee-89a3-4f85-9c79-7acf1d97f83e.png)<br>
 
-Small fishing pond to chill :)
+Small fishing pond to chill :)<br>
 ![Fishing pond](https://user-images.githubusercontent.com/124402987/216850296-001c65f7-cf84-43a2-91b8-015d5111fa3b.png)<br>
 
 
