@@ -3,7 +3,7 @@ Made by Plague Builds
 <img>![storage](https://user-images.githubusercontent.com/124402987/216842885-2f7c1aac-2efd-4516-9071-e339960cb95f.png)
 
 # JUMP TO
-<a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#how-do-i-add-the-map title="How do I add the map">Visit our HTML Tutorial</a>
+<a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#how-do-i-add-the-map title="How do I add the map">How do I add the map</a>
 
 The map includes
 <ul>
