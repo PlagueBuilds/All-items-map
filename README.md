@@ -70,7 +70,7 @@ Quaxly
 
 Lowka
 
-Airwavess
+<b><i>Airwavess<i><b>
 
 Trash
 
