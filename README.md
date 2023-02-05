@@ -34,4 +34,4 @@ NOTICE. If you are trying to replace a world and it keeps reverting to an old on
 
 # More about Plague Builds
 
-First of all i want to say thanks to everyone that contributed to making this map
+
