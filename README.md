@@ -24,7 +24,9 @@ Next step is to navigate to your "worlds" folder for Core Keeper.
 After doing this, open the zip file you downloaded and place "1.world.gzip" in your CK worlds folder.
 If you already have a world file that is called "1.world.gzip" you don't need to replace it, instead just raise the file world number to an empty one.
 Example:
+
 ![File number](https://user-images.githubusercontent.com/124402987/216845775-30b8d60a-2434-4eba-94db-7d04a869a3b8.png)
+
 In this case you would want to rename our world file to 5.world.gzip
 
 # More about Plague Builds
