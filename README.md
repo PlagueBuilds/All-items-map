@@ -48,24 +48,39 @@ Owners: BLIX, Kiwi
 LadySol- thanks for being a great leader and investing so much time in this project.
 
 Thanks to all builders who made this map look a billion times better :
+
 Arch
+
 Draegon
+
 Muffin
+
 PapaINK
+
 DarkOfStar
 
 Thanks to everyone who explored, mined, found and much more...
 
 Bean
+
 Keegan
+
 Mad Scientist
+
 Quaxly
+
 Lowka
+
 Airwavess
+
 Trash
+
 Skyflare
+
 Nedaru
+
 DarkTemption
+
 Toasted Tomato
 
 We spent hundreds of hours trying to make this as good as possible. The map will be updated regularly. We hope you will like it guys, have fun :D
