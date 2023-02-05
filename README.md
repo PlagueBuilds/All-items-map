@@ -4,7 +4,7 @@ Made by Plague Builds
 
 # JUMP TO
 <a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#how-do-i-add-the-map title="How do I add the map">How do I add the map</a>
-
+<a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#more-about-plague-builds title="More about Plague Builds">More about Plague Builds</a>
 
 
 
