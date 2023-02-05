@@ -85,6 +85,8 @@ Toasted Tomato
 
 We spent hundreds of hours trying to make this as good as possible. The map will be updated regularly. We hope you will like it guys, have fun :D
 
-For questions, suggestions, problems, and more, join our Discord server: https://discord.gg/9YXPrPcK
+For questions, suggestions, problems, and more, join our Discord server:
+
+<a href=https://discord.gg/9YXPrPcK>Plague Builds Discord server</a>
 
 # Here are some screenshots from our map
