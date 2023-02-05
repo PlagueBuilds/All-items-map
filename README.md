@@ -63,7 +63,7 @@ Thanks to everyone who explored, mined, found and much more...
 
 Bean
 
-Keegan \n
+Keegan <br>
 Mad Scientist
 
 Quaxly
