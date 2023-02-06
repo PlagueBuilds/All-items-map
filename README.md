@@ -132,6 +132,9 @@ Link to the mob farm layout: <a href="https://imgur.com/a/YbYvinM">Kizu's mob fa
 ![small map](https://user-images.githubusercontent.com/124402987/217102216-b011a54a-e096-45f8-b95c-80344a9b1ab6.png)
 
 
-The map will be regularly updated, and more projects are planned in the future. Thanks for the support, we hope you will enjoy.
+The map will be regularly updated, and more projects are planned in the future. Thanks for the support, we hope you will enjoy.<br>
+
+# WARNING
+In the process of making the map we kinda destroyed a lot of things, and there are still who knows where and who knows how many items in the world that are not deleted yet. As addition to that if you find thousands of some random items in one spot PLEASE report it on our discord server. Those problems occure when spawning in items while you have no inventory slots availbale. It sometimes happend that we added one more 9 to 999 (as a full stack) so the game spawns almost 10k items somewhere random in the world. We are trying to clean our the world as much as possible in the meantime.<br>
 
 BLIX, owner of Plague Builds
