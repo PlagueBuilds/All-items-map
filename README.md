@@ -125,10 +125,15 @@ Link to the mob farm layout: <a href="https://imgur.com/a/YbYvinM">Kizu's mob fa
 
 
 
-<p style="background-color:rgb(255, 99, 71);">Lorem ipsum...</p>
+<!DOCTYPE html>
+<html>
+<body>
 
-<iframe width="420" height="315" src=https://www.youtube.com/embed/tgbNymZ7vqY;>
+<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
 </iframe>
+
+</body>
+</html>
 
 
 
