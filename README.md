@@ -129,7 +129,7 @@ Link to the mob farm layout: <a href="https://imgur.com/a/YbYvinM">Kizu's mob fa
 <html>
 <body>
 
-<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY"><br>
+<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY" ><br>
 </iframe>
 
 </body>
