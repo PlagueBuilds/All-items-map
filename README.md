@@ -61,7 +61,7 @@ LadySol- thanks for being a great leader and investing so much time in this proj
 
 Thanks to all builders who made this map look a billion times better :
 
-Arch<br><br>
+Arch<br>
 Draegon<br>
 Muffin<br>
 PapaINK<br>
