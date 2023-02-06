@@ -128,7 +128,7 @@ Link to the mob farm layout: <a href="https://imgur.com/a/YbYvinM">Kizu's mob fa
 
 
 
-<p style="color:DodgerBlue;">Lorem ipsum...</p>
+<h1 style="border:2px solid Tomato;">Hello World</h1>
 
 
 
