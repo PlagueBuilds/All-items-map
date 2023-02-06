@@ -124,17 +124,9 @@ Link to Kizu's YouTube channel: <a href="https://www.youtube.com/@KizuGBF">KizuG
 Link to the mob farm layout: <a href="https://imgur.com/a/YbYvinM">Kizu's mob farm layout!</a><br>
 
 
+# A small guide on important places on our map
 
-<!DOCTYPE html>
-<html>
-<body>
-
-<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe>
-
-</body>
-</html>
-
-
+![small map](https://user-images.githubusercontent.com/124402987/217102216-b011a54a-e096-45f8-b95c-80344a9b1ab6.png)
 
 
 The map will be regularly updated, and more projects are planned in the future. Thanks for the support, we hope you will enjoy.
