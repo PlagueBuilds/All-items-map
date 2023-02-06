@@ -122,6 +122,8 @@ AND MUCH MORE !!!!
 Link to the mob farm guide: https: <a href="https://www.youtube.com/watch?v=0hj4ZsZf-7k&t=2s">Kizu's mob farm guide</a><br>
 Link to Kizu's YouTube channel: <a href="https://www.youtube.com/@KizuGBF">KizuGBF Youtube channel!</a><br>
 Link to the mob farm layout: <a href="https://imgur.com/a/YbYvinM">Kizu's mob farm layout!</a><br>
+![mob farm layout](https://user-images.githubusercontent.com/124402987/217102478-7d51505e-6a4c-49a6-b088-f1f65d08f8fa.jpg)
+
 
 
 # A small guide on important places on our map
