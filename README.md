@@ -119,7 +119,7 @@ AND MUCH MORE !!!!
 
 
 # Credits to KizuGBF for the mob farm system.<br>
-Link to the mob farm guide: https: <a href="https://www.youtube.com/watch?v=0hj4ZsZf-7k&t=2s">Kizu's mob farm guide</a><br>
+Link to the mob farm guide: <a href="https://www.youtube.com/watch?v=0hj4ZsZf-7k&t=2s">Kizu's mob farm guide</a><br>
 Link to Kizu's YouTube channel: <a href="https://www.youtube.com/@KizuGBF">KizuGBF Youtube channel</a><br>
 Link to the mob farm layout: <a href="https://imgur.com/a/YbYvinM">Kizu's mob farm layout</a><br>
 
