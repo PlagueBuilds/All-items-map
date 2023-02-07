@@ -6,7 +6,7 @@ Made by Plague Builds
 <a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#how-do-i-add-the-map title="How do I add the map">How do I add the map</a><br>
 <a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#more-about-plague-builds title="More about Plague Builds">More about Plague Builds</a><br>
 <a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#cool-builds-you-can-find-on-our-world title="Cool builds you can find on our world">Cool Builds you can find on our world</a><br>
-<a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#credits-to-kizugbf-for-the-mob-farm-system>More about our the mob farm</a><br>
+<a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#credits-to-kizugbf-for-the-mob-farm-system>More about Kizu's mob farm</a><br>
 <a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#a-small-guide-on-important-places-on-our-map>World map preveiew</a><br>
 
 <a href=https://discord.gg/9YXPrPcK>Plague Builds Discord server</a><br>
@@ -99,7 +99,7 @@ The GRAND ENTERANCE<br>
 Themed NPC housing<br>
 ![npchousing](https://user-images.githubusercontent.com/124402987/216847971-cbc0a079-064a-4526-b89d-05d103684b40.png)<br>
 
-Our AFK farm<br>
+Kizu's AFK farm<br>
 ![afkfarm](https://user-images.githubusercontent.com/124402987/216848059-ce76e977-c252-4b67-9066-e194f26320f9.png)<br>
 
 Cozy crafting area<br>
