@@ -6,7 +6,7 @@ Made by Plague Builds
 <a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#how-do-i-add-the-map title="How do I add the map">How do I add the map</a><br>
 <a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#more-about-plague-builds title="More about Plague Builds">More about Plague Builds</a><br>
 <a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#cool-builds-you-can-find-on-our-world title="Cool builds you can find on our world">Cool Builds you can find on our world</a><br>
-<a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#credits-to-kizugbf-for-the-mob-farm-system>More about Kizu's mob farm</a><br>
+<a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#credits-to-kizugbf-for-the-mob-farm-system>More about KizuGBF(きず)'s mob farm</a><br>
 <a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#a-small-guide-on-important-places-on-our-map>World map preveiew</a><br>
 
 <a href=https://discord.gg/9YXPrPcK>Plague Builds Discord server</a><br>
@@ -118,10 +118,10 @@ Fishing spot with different biome liquids<br>
 AND MUCH MORE !!!!
 
 
-# Credits to KizuGBF for the mob farm system.<br>
-Link to the mob farm guide: <a href="https://www.youtube.com/watch?v=0hj4ZsZf-7k&t=2s">Kizu's mob farm guide</a><br>
-Link to Kizu's YouTube channel: <a href="https://www.youtube.com/@KizuGBF">KizuGBF Youtube channel</a><br>
-Link to the mob farm layout: <a href="https://imgur.com/a/YbYvinM">Kizu's mob farm layout</a><br>
+# Credits to KizuGBF(きず) for the mob farm system.<br>
+Link to the mob farm guide: <a href="https://www.youtube.com/watch?v=0hj4ZsZf-7k&t=2s">KizuGBF(きず) mob farm guide</a><br>
+Link to Kizu's YouTube channel: <a href="https://www.youtube.com/@KizuGBF">KizuGBF(きず) Youtube channel</a><br>
+Link to the mob farm layout: <a href="https://imgur.com/a/YbYvinM">KizuGBF(きず) mob farm layout</a><br>
 
 ![mob farm layout](https://user-images.githubusercontent.com/124402987/217102478-7d51505e-6a4c-49a6-b088-f1f65d08f8fa.jpg)
 
