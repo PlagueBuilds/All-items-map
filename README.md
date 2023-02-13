@@ -7,7 +7,6 @@ Made by Plague Builds
 <a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#more-about-plague-builds title="More about Plague Builds">More about Plague Builds</a><br>
 <a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#cool-builds-you-can-find-on-our-world title="Cool builds you can find on our world">Cool Builds you can find on our world</a><br>
 <a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#credits-to-kizugbfきず-for-the-mob-farm-system>More about KizuGBF(きず)'s mob farm</a><br>
-<a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#a-small-guide-on-important-places-on-our-map>World map preveiew</a><br>
 
 <a href=https://discord.gg/9YXPrPcK>Plague Builds Discord server</a><br>
 
@@ -20,7 +19,6 @@ The map includes
   <li>Fishing Area</li>
   <li>Themed NPC housing</li> 
 </ul><br>
-
 ![small map](https://user-images.githubusercontent.com/124402987/217102216-b011a54a-e096-45f8-b95c-80344a9b1ab6.png)<br>
 
 AND MUCH MORE !!!
@@ -119,14 +117,7 @@ Link to the mob farm guide: <a href="https://www.youtube.com/watch?v=0hj4ZsZf-7k
 Link to Kizu's YouTube channel: <a href="https://www.youtube.com/@KizuGBF">KizuGBF(きず) Youtube channel</a><br>
 Link to the mob farm layout: <a href="https://imgur.com/a/YbYvinM">KizuGBF(きず) mob farm layout</a><br>
 
-![mob farm layout](https://user-images.githubusercontent.com/124402987/217102478-7d51505e-6a4c-49a6-b088-f1f65d08f8fa.jpg)
-
-
-
-# A small guide on important places on our map
-
-![small map](https://user-images.githubusercontent.com/124402987/217102216-b011a54a-e096-45f8-b95c-80344a9b1ab6.png)
-
+![mob farm layout](https://user-images.githubusercontent.com/124402987/217102478-7d51505e-6a4c-49a6-b088-f1f65d08f8fa.jpg)<br>
 
 The map will be regularly updated, and more projects are planned in the future. Thanks for the support, we hope you will enjoy.<br>
 
