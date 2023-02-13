@@ -19,7 +19,9 @@ The map includes
   <li>Crafting Area</li>
   <li>Fishing Area</li>
   <li>Themed NPC housing</li> 
-</ul>
+</ul><br>
+
+![small map](https://user-images.githubusercontent.com/124402987/217102216-b011a54a-e096-45f8-b95c-80344a9b1ab6.png)<br>
 
 AND MUCH MORE !!!
 
