@@ -42,7 +42,11 @@ Example:
 
 In this case you would want to rename our world file to 5.world.gzip because that's the first empty slot.
 
-NOTICE. If you are trying to replace a world and it keeps reverting to an old one, it's because of the backup file, which needs to be deleted in order to fix that issue.
+NOTICE. If you are trying to replace a world and it keeps reverting to an old one, it's because of the backup file, which needs to be deleted in order to fix that issue.<br>
+
+How do I add mapparts file?
+
+In the same folder where
 
 ![mold-azeos-minibiom](https://user-images.githubusercontent.com/124402987/216847779-675a1e5b-72b5-4be6-bbde-b905c0eb844e.png)
 
