@@ -58,10 +58,10 @@ Example:<br>
 
 NOTICE!<br>
 
-If you have more mapparts files then worlds there shouldn't be an issue if you delete some of them.<br>
+If you have more mapparts files then worlds, there shouldn't be an issue if you delete some of them.<br>
 ![image](https://user-images.githubusercontent.com/124402987/218550344-525b0dbc-54b2-426b-ac2b-0675d1d63cf4.png)
 
-I have 15 mappart files but i only have 3 worlds and i never had more then 3 worlds. Not sure why this happends but deleting the spare ones won't make any problems.<br>
+I have 15 mappart files but i only have 3 worlds, and i never had more then 3 worlds. Not sure why this happens but deleting the spare ones won't make any problems.<br>
 
 ![mold-azeos-minibiom](https://user-images.githubusercontent.com/124402987/216847779-675a1e5b-72b5-4be6-bbde-b905c0eb844e.png)
 
