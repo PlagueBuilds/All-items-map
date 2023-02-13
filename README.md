@@ -3,7 +3,7 @@ Made by Plague Builds
 <img>![storage](https://user-images.githubusercontent.com/124402987/216842885-2f7c1aac-2efd-4516-9071-e339960cb95f.png)
 
 # JUMP TO
-<a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#how-do-i-add-the-map title="How do I add the world">How do I add the world</a><br>
+<a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#how-do-i-add-the-world title="How do I add the world">How do I add the world</a><br>
 <a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#more-about-plague-builds title="More about Plague Builds">More about Plague Builds</a><br>
 <a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#cool-builds-you-can-find-on-our-world title="Cool builds you can find on our world">Cool Builds you can find on our world</a><br>
 <a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#credits-to-kizugbfきず-for-the-mob-farm-system>More about KizuGBF(きず)'s mob farm</a><br>
