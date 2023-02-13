@@ -44,9 +44,24 @@ In this case you would want to rename our world file to 5.world.gzip because tha
 
 NOTICE. If you are trying to replace a world and it keeps reverting to an old one, it's because of the backup file, which needs to be deleted in order to fix that issue.<br>
 
-How do I add mapparts file?
+# How do I add mapparts file?<br>
 
-In the same folder where
+Navigate to your CK files and open maps file<br>
+![image](https://user-images.githubusercontent.com/124402987/218548970-79319580-7490-4101-be1d-8363bb364af1.png)<br>
+
+Open folder "0"<br>
+![image](https://user-images.githubusercontent.com/124402987/218549482-39d19a3c-3ea6-423b-9432-7f6d33b7c5a9.png)<br>
+
+Add the mapparts file to the folder, renaming it same as the world file.<br>
+Example:<br> 
+![image](https://user-images.githubusercontent.com/124402987/218549960-d14874f1-e488-4072-a949-14f29009f9fe.png)<br>
+
+NOTICE!<br>
+
+If you have more mapparts files then worlds there shouldn't be an issue if you delete some of them.<br>
+![image](https://user-images.githubusercontent.com/124402987/218550344-525b0dbc-54b2-426b-ac2b-0675d1d63cf4.png)
+
+I have 15 mappart files but i only have 3 worlds and i never had more then 3 worlds. Not sure why this happends but deleting the spare ones won't make any problems.<br>
 
 ![mold-azeos-minibiom](https://user-images.githubusercontent.com/124402987/216847779-675a1e5b-72b5-4be6-bbde-b905c0eb844e.png)
 
