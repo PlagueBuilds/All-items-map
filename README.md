@@ -8,7 +8,7 @@ Made by Plague Builds
 <a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#cool-builds-you-can-find-on-our-world title="Cool builds you can find on our world">Cool Builds you can find on our world</a><br>
 <a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#credits-to-kizugbfきず-for-the-mob-farm-system>More about KizuGBF(きず)'s mob farm</a><br>
 
-<a href=https://discord.gg/G77FUKmt9P>Plague Builds Discord server</a><br>
+<a href=https://discord.gg/GCd3JTMDHc>Plague Builds Discord server</a><br>
 
 The map includes
 <ul>
