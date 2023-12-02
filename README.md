@@ -28,7 +28,7 @@ AND MUCH MORE !!!
 
 # How do I add the world?
 
-Start by downloading the zip file called All items map.
+Start by downloading the zip file called <a href=https://github.com/PlagueBuilds/All-items-map/releases>All items map</a>.
 Next step is to navigate to your "worlds" folder for Core Keeper.
 
 ![worlds folder navigation](https://user-images.githubusercontent.com/124402987/216844866-b6fce9d7-8167-42f7-957b-ad58ab7c96f8.png)
