@@ -20,7 +20,7 @@ The map includes
   <li>Themed NPC housing</li> 
 </ul><br>
 
-![small map](https://user-images.githubusercontent.com/124402987/217102216-b011a54a-e096-45f8-b95c-80344a9b1ab6.png)<br>
+![small map](https://user-images.githubusercontent.com/124402987/217102216-b011a54a-e096-45f8-b95c-80344a9b1ab6.png)
 
 AND MUCH MORE !!!
 
