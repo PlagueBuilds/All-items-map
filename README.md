@@ -53,7 +53,8 @@ For questions, suggestions, problems, and more, join our Discord server:
 # Credits to KizuGBF(きず) for the mob farm system.<br>
 Link to Kizu's YouTube channel: <a href="https://www.youtube.com/@KizuGBF">KizuGBF(きず) Youtube channel</a><br>
 Link to the mob farm video: <a href="https://www.youtube.com/watch?v=loBK7KTFkdM"> Mob farm by KizuGBF(きず)</a><br>
-![mob farm layout]![image](https://github.com/user-attachments/assets/a62ba02c-7e74-417c-a719-250d9aba38a8)<br>
+AFK farm tutorial: <a href="https://docs.google.com/document/d/17mNUTNTZFw4h-vKS8q23SgURZDtSqO5d1zg7wws_Mw0/edit?hl=zh-tw&tab=t.0"><br>
+[image](https://github.com/user-attachments/assets/a62ba02c-7e74-417c-a719-250d9aba38a8)<br>
 
 The map will be regularly updated, and more projects are planned in the future. Thanks for the support, we hope you will enjoy.<br>
 
