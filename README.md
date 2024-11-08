@@ -14,17 +14,8 @@ The map includes
 <ul>
   <li>Every obtainable item in the game (except food combinations that's too much work XD)</li>
   <li>A LOT of cool builds</li>
-  <li>Smelting Area</li>
-  <li>Crafting Area</li>
-  <li>Fishing Area</li>
-  <li>Themed NPC housing</li> 
+  <li>You can use our world as your base as well since it has everything a base needs</li>
 </ul><br>
-
-![small map](https://user-images.githubusercontent.com/124402987/217102216-b011a54a-e096-45f8-b95c-80344a9b1ab6.png)
-
-AND MUCH MORE !!!
-
-![forge](https://user-images.githubusercontent.com/124402987/216847733-9742a57a-8d50-4f0d-b252-31f0b15957d1.png)
 
 # How do I add the world?
 
@@ -33,76 +24,32 @@ Next step is to navigate to your Core Keeper folder and copy/paste everything in
 
 ![Screenshot_1](https://github.com/PlagueBuilds/All-items-map/assets/124402987/b56913b5-4ccd-4eab-92ed-1bde80f00be0)<br>
 
-
-
-![mold-azeos-minibiom](https://user-images.githubusercontent.com/124402987/216847779-675a1e5b-72b5-4be6-bbde-b905c0eb844e.png)
-
 # More about Plague Builds
 
-Our dear friend and member of Plague Builds, PapaINK, unfortunately passed away on december 18.
-We will miss you INK, thanks for everything, rest in peace.
+Made by Plague Builds
+Owner of Plague Builds and Caveling's Workshop project: BLIX
 
-Special thanks to Core Keeper developers Cubs, Ceddini and Bridie for helping us out.
+A Huge Thank You to the Team!
 
-Special thanks to Kremnev8 for making mods we needed for the project.
+To my incredible Core Keeper project team, I am beyond grateful for the dedication, creativity, and teamwork you all brought to this project. 
+Together, we’ve built something truly amazing for the community, and I couldn’t be prouder.
 
-Big thanks...nah... HUUUUUUGE thanks to all members of Plague Builds for participating in this project and making it real:
+A special shoutout to LadySol for leading the team with such skill and motivation—your leadership kept us all connected and on track. 
+Huge thanks to the Core Keeper developers for their patience and insights, answering our questions along the way.
 
-Owners: BLIX, Kiwi
+To Limoka, your expertise with mods added so much depth to our project; we couldn't have done it without your amazing mods. 
+Massive gratitude to Alpogu for your insane builds, taking the project to a whole new level; 
+to Haki for creating the best race track the world has ever seen; 
+and to Arisa and KizuGBF for pushing AFK farming to new heights.
 
-LadySol- thanks for being a great leader and investing so much time in this project.
-
-Thanks to all builders who made this map look a billion times better :
-
-Arch<br>
-Draegon<br>
-Muffin<br>
-PapaINK<br>
-DarkOfStar<br>
-
-Thanks to everyone who explored, mined, found and much more...
-
-Bean<br>
-Keegan <br>
-Mad Scientist<br>
-Quaxly<br>
-Lowka<br>
-Airwavess<br>
-Trash<br>
-Skyflare<br>
-Nedaru<br>
-DarkTemption<br>
-Toasted Tomato<br>
+Thank you all for participating and making this project unforgettable. 
+Here’s to what we’ve accomplished and to many more incredible projects ahead! 🌟
 
 We spent hundreds of hours trying to make this as good as possible. The map will be updated regularly. We hope you will like it guys, have fun :D
 
 For questions, suggestions, problems, and more, join our Discord server:
 
 <a href=https://discord.gg/9YXPrPcK>Plague Builds Discord server</a>
-
-# Cool builds you can find on our world
-
-A small but amazing excavation site!!!<br>
-![fosil](https://user-images.githubusercontent.com/124402987/216847948-cedecfc7-85c4-44f2-bccc-6cc02fa08943.png)<br>
-
-Kizu's AFK farm<br>
-![afkfarm](https://user-images.githubusercontent.com/124402987/216848059-ce76e977-c252-4b67-9066-e194f26320f9.png)<br>
-
-Cozy crafting area<br>
-![crafting](https://user-images.githubusercontent.com/124402987/216848264-2be3a7ee-89a3-4f85-9c79-7acf1d97f83e.png)<br>
-
-Small fishing pond to chill :)<br>
-![Fishing pond](https://user-images.githubusercontent.com/124402987/216850296-001c65f7-cf84-43a2-91b8-015d5111fa3b.png)<br>
-
-Science Lab<br>
-![crystal drill](https://user-images.githubusercontent.com/124402987/216850653-f60735e4-a2fc-48ee-b195-8a1c7bf5b447.png)<br>
-
-Fishing spot with different biome liquids<br>
-![fishing](https://user-images.githubusercontent.com/124402987/216852273-1167dec4-5958-4469-9a29-9f13c7bc0da4.png)<br>
-
-
-AND MUCH MORE !!!!
-
 
 # Credits to KizuGBF(きず) for the mob farm system.<br>
 Link to the mob farm guide: <a href="https://www.youtube.com/watch?v=0hj4ZsZf-7k&t=2s">KizuGBF(きず) mob farm guide</a><br>
