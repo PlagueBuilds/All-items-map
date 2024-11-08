@@ -34,10 +34,10 @@ Together, we’ve built something truly amazing for the community, and I couldn�
 A special shoutout to $${\color{red}LadySol}$$ for leading the team with such skill and motivation—your leadership kept us all connected and on track. 
 Huge thanks to the Core Keeper developers for their patience and insights, answering our questions along the way.
 
-To Limoka, your expertise with mods added so much depth to our project; we couldn't have done it without your amazing mods. 
+To $${\color{pink}Limoka}$$, your expertise with mods added so much depth to our project; we couldn't have done it without your amazing mods. 
 Massive gratitude to $${\color{green}Alpogu}$$ for your insane builds, taking the project to a whole new level; 
-to Haki for creating the best race track the world has ever seen; 
-and to $${\color{lightblue}Arisa}$$ and KizuGBF for pushing AFK farming to new heights.
+to $${\color{white}Haki}$$ for creating the best race track the world has ever seen; 
+and to $${\color{lightblue}Arisa}$$ and $${\color{yellow}KizuGBF}$$ for pushing AFK farming to new heights.
 
 Thank you all for participating and making this project unforgettable. 
 Here’s to what we’ve accomplished and to many more incredible projects ahead! 🌟
