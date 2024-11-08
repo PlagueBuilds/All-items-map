@@ -26,7 +26,7 @@ Next step is to navigate to your Core Keeper folder and copy/paste everything in
 
 # More about Plague Builds
 
-Made by Plague Builds
+Made by Plague Builds <br>
 Owner of Plague Builds and Caveling's Workshop project: BLIX
 
 A Huge Thank You to the Team!
