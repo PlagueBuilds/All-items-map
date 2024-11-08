@@ -59,6 +59,6 @@ Link to Kizu's YouTube channel: <a href="https://www.youtube.com/@KizuGBF">KizuG
 The map will be regularly updated, and more projects are planned in the future. Thanks for the support, we hope you will enjoy.<br>
 
 # $${\color{red}WARNING}$$
-In the process of making the map we kinda destroyed a lot of things, and there are still who knows where and who knows how many items in the world that are not deleted yet. As addition to that if you find thousands of some random items in one spot PLEASE report it on our discord server. Those problems occure when spawning in items while you have no inventory slots availbale. It sometimes happend that we added one more 9 to 999 (as a full stack) so the game spawns almost 10k items somewhere random in the world. We are trying to clean the world as much as possible in the meantime.<br>
+Any issues you encounter please report on our discord.<br>
 
 BLIX, owner of Plague Builds
