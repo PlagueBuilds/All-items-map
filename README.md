@@ -1,4 +1,4 @@
-# All items map - Caveling's Workshop
+# $${\color{green}All items map}$$ - $${\color{green}Caveling's Workshop}$$
 Made by Plague Builds
 <img>![Storage](https://github.com/user-attachments/assets/ea1e32c3-80b1-42f8-b2ff-de7d82c10213)
 
