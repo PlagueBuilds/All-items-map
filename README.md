@@ -24,7 +24,7 @@ You can download our map in-game from the Mods section, just find the map made b
 # More about Plague Builds
 
 Made by Plague Builds <br>
-Owner of Plague Builds and Caveling's Workshop project: $${\color{blue}BLIX}$$
+Owner of Plague Builds and Caveling's Workshop project: $${\color{white}BLIX}$$
 
 A Huge Thank You to the Team!
 
