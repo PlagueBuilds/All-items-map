@@ -1,6 +1,6 @@
 # All items map - Caveling's Workshop
 Made by Plague Builds
-<img>![storage](https://user-images.githubusercontent.com/124402987/216842885-2f7c1aac-2efd-4516-9071-e339960cb95f.png)
+<img>![Storage](https://github.com/user-attachments/assets/ea1e32c3-80b1-42f8-b2ff-de7d82c10213)
 
 # JUMP TO
 <a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#how-do-i-add-the-world title="How do I add the world">How do I add the world</a><br>
