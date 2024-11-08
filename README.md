@@ -31,13 +31,13 @@ A Huge Thank You to the Team!
 To my incredible Core Keeper project team, I am beyond grateful for the dedication, creativity, and teamwork you all brought to this project. 
 Together, we’ve built something truly amazing for the community, and I couldn’t be prouder.
 
-A special shoutout to $${\color{red}LadySol}$$ for leading the team with such skill and motivation—your leadership kept us all connected and on track. 
+A special shoutout to $${\color{red}LadySol}$$ for leading the team with such skill and motivation—your leadership kept us all connected and on track.<br>
 Huge thanks to the Core Keeper developers for their patience and insights, answering our questions along the way.
 
-To $${\color{pink}Limoka}$$, your expertise with mods added so much depth to our project; we couldn't have done it without your amazing mods. 
-Massive gratitude to $${\color{green}Alpogu}$$ for your insane builds, taking the project to a whole new level; 
-to $${\color{white}Haki}$$ for creating the best race track the world has ever seen; 
-and to $${\color{lightblue}Arisa}$$ and $${\color{yellow}KizuGBF}$$ for pushing AFK farming to new heights.
+To $${\color{pink}Limoka}$$, your expertise with mods added so much depth to our project; we couldn't have done it without your amazing mods.<br>
+Massive gratitude to $${\color{green}Alpogu}$$ for your insane builds, taking the project to a whole new level;<br> 
+Thank you so much $${\color{white}Haki}$$ for creating the best race track the world has ever seen, you are an amazing builder;<br>
+And massive thanks to $${\color{lightblue}Arisa}$$ and $${\color{yellow}KizuGBF}$$ for pushing AFK farming to new heights.
 
 Thank you all for participating and making this project unforgettable. 
 Here’s to what we’ve accomplished and to many more incredible projects ahead! 🌟
