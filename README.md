@@ -52,15 +52,13 @@ For questions, suggestions, problems, and more, join our Discord server:
 <a href=https://discord.gg/9YXPrPcK>Plague Builds Discord server</a>
 
 # Credits to KizuGBF(きず) for the mob farm system.<br>
-Link to the mob farm guide: <a href="https://www.youtube.com/watch?v=0hj4ZsZf-7k&t=2s">KizuGBF(きず) mob farm guide</a><br>
 Link to Kizu's YouTube channel: <a href="https://www.youtube.com/@KizuGBF">KizuGBF(きず) Youtube channel</a><br>
-Link to the mob farm layout: <a href="https://imgur.com/a/YbYvinM">KizuGBF(きず) mob farm layout</a><br>
 
 ![mob farm layout](https://user-images.githubusercontent.com/124402987/217102478-7d51505e-6a4c-49a6-b088-f1f65d08f8fa.jpg)<br>
 
 The map will be regularly updated, and more projects are planned in the future. Thanks for the support, we hope you will enjoy.<br>
 
-# WARNING
+# $${\color{red}WARNING}$$
 In the process of making the map we kinda destroyed a lot of things, and there are still who knows where and who knows how many items in the world that are not deleted yet. As addition to that if you find thousands of some random items in one spot PLEASE report it on our discord server. Those problems occure when spawning in items while you have no inventory slots availbale. It sometimes happend that we added one more 9 to 999 (as a full stack) so the game spawns almost 10k items somewhere random in the world. We are trying to clean the world as much as possible in the meantime.<br>
 
 BLIX, owner of Plague Builds
