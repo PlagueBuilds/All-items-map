@@ -1,4 +1,4 @@
-# $${\color{green}All \space \color{green}items \space \color{green}map - 
+# $${\color{green}All \space \color{green}items \space \color{green}map}$$ - 
 Made by Plague Builds
 <img>![Storage](https://github.com/user-attachments/assets/ea1e32c3-80b1-42f8-b2ff-de7d82c10213)
 
