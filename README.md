@@ -16,7 +16,8 @@ The map includes
   <li>A LOT of cool builds</li>
   <li>You can use our world as your base as well since it has everything a base needs</li>
 </ul><br>
-# How to download our world?<br>
+# How to download our world?
+
 You can download our map in-game from the Mods section, just find the map made by $${\color{green}Plague \space Builds}$$ and posted by $${\color{blue}BLIX}$$.
 
 # More about Plague Builds
