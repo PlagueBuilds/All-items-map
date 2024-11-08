@@ -17,12 +17,7 @@ The map includes
   <li>You can use our world as your base as well since it has everything a base needs</li>
 </ul><br>
 
-# How do I add the world?
-
-Start by downloading the zip file called <a href=https://github.com/PlagueBuilds/All-items-map/releases>All items map</a>.
-Next step is to navigate to your Core Keeper folder and copy/paste everything into the main Core Keeper folder. That's it believe it or not :D. When you open the game, you will have to scroll to the bottom of your worlds becuse the map will be on your 30th world slot.
-
-![Screenshot_1](https://github.com/PlagueBuilds/All-items-map/assets/124402987/b56913b5-4ccd-4eab-92ed-1bde80f00be0)<br>
+You can download our map in-game from the Mods section, just find the map made by $${\color{green}Plague \space Builds}$$ and posted by $${\color{blue}BLIX}$$.
 
 # More about Plague Builds
 
