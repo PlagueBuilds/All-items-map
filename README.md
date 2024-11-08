@@ -14,6 +14,8 @@ The map includes
   <li>You can use our world as your base as well since it has everything a base needs</li>
 </ul><br>
 
+<img>![Core](https://github.com/user-attachments/assets/cbfa827a-2184-4a72-a4cb-1ebece0e772f)<br>
+
 # How to download our world?
 
 You can download our map in-game from the Mods section, just find the map made by $${\color{green}Plague \space Builds}$$ and posted by $${\color{blue}BLIX}$$.
