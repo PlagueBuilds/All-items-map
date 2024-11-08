@@ -3,11 +3,8 @@ Made by $${\color{lightgreen}Plague \space Builds}$$
 <img>![Storage](https://github.com/user-attachments/assets/ea1e32c3-80b1-42f8-b2ff-de7d82c10213)
 
 # JUMP TO
-<a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#how-to-download-our-world? title="How to download our world?">How to download our world?</a><br>
 <a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#more-about-plague-builds title="More about Plague Builds">More about Plague Builds</a><br>
-<a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#cool-builds-you-can-find-on-our-world title="Cool builds you can find on our world">Cool Builds you can find on our world</a><br>
 <a href=https://github.com/PlagueBuilds/All-items-map/blob/main/README.md#credits-to-kizugbfきず-for-the-mob-farm-system>More about KizuGBF(きず)'s mob farm</a><br>
-
 <a href=https://discord.gg/GCd3JTMDHc>Plague Builds Discord server</a><br>
 
 The map includes
@@ -16,7 +13,7 @@ The map includes
   <li>A LOT of cool builds</li>
   <li>You can use our world as your base as well since it has everything a base needs</li>
 </ul><br>
-# How to download our world?
+#How to download our world?
 
 You can download our map in-game from the Mods section, just find the map made by $${\color{green}Plague \space Builds}$$ and posted by $${\color{blue}BLIX}$$.
 
