@@ -52,7 +52,7 @@ For questions, suggestions, problems, and more, join our Discord server:
 
 # Credits to KizuGBF(きず) for the mob farm system.<br>
 Link to Kizu's YouTube channel: <a href="https://www.youtube.com/@KizuGBF">KizuGBF(きず) Youtube channel</a><br>
-
+Link to the mob farm video: <a href="https://www.youtube.com/watch?v=loBK7KTFkdM"> Mob farm by KizuGBF(きず)</a><br>
 ![mob farm layout](https://user-images.githubusercontent.com/124402987/217102478-7d51505e-6a4c-49a6-b088-f1f65d08f8fa.jpg)<br>
 
 The map will be regularly updated, and more projects are planned in the future. Thanks for the support, we hope you will enjoy.<br>
