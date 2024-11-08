@@ -50,12 +50,12 @@ For questions, suggestions, problems, and more, join our Discord server:
 
 <img>![Park](https://github.com/user-attachments/assets/68434252-f49a-4a7b-b8f0-9d10e2bc96e6)<br>
 
-![Entrance](https://github.com/user-attachments/assets/1e9d3688-ad28-49ac-afe4-5c34fcf300bc)
-
 # Credits to KizuGBF(きず) for the mob farm system.<br>
 Link to Kizu's YouTube channel: <a href="https://www.youtube.com/@KizuGBF">KizuGBF(きず) Youtube channel</a><br>
 Link to the mob farm video: <a href="https://www.youtube.com/watch?v=loBK7KTFkdM"> Mob farm by KizuGBF(きず)</a><br>
 AFK farm tutorial: <a href="https://docs.google.com/document/d/17mNUTNTZFw4h-vKS8q23SgURZDtSqO5d1zg7wws_Mw0/edit?hl=zh-tw&tab=t.0"> AFK farm Tutorial</a><br>
+
+![AFK farm](https://github.com/user-attachments/assets/dbf64f50-dfa6-442b-93b9-bfc0d5ada694)
 
 The map will be regularly updated, and more projects are planned in the future. Thanks for the support, we hope you will enjoy.<br>
 
