@@ -34,7 +34,7 @@ A Huge Thank You to the Team!
 To my incredible Core Keeper project team, I am beyond grateful for the dedication, creativity, and teamwork you all brought to this project. 
 Together, we’ve built something truly amazing for the community, and I couldn’t be prouder.
 
-A special shoutout to <code style="color : name_color">LadySol</code> for leading the team with such skill and motivation—your leadership kept us all connected and on track. 
+A special shoutout to <code style="color : Fuchsia">LadySol</code> for leading the team with such skill and motivation—your leadership kept us all connected and on track. 
 Huge thanks to the Core Keeper developers for their patience and insights, answering our questions along the way.
 
 To Limoka, your expertise with mods added so much depth to our project; we couldn't have done it without your amazing mods. 
