@@ -18,7 +18,7 @@ The map includes
 
 # How to download our world?
 
-You can download our map in-game from the Mods section, just find the map made by $${\color{green}Plague \space Builds}$$ and posted by $${\color{blue}BLIX}$$.<br>
+You can download our map in-game from the Mods section, just find the map made by $${\color{green}Plague \space Builds}$$ and posted by $${\color{cyan}BLIX}$$.<br>
 <img>![image](https://github.com/user-attachments/assets/a964f9f6-895b-4a2f-a215-5bf94ced590a)
 
 # More about Plague Builds
