@@ -46,7 +46,7 @@ We spent hundreds of hours trying to make this as good as possible. The map will
 
 For questions, suggestions, problems, and more, join our Discord server:
 
-<a href=https://discord.gg/9YXPrPcK>Plague Builds Discord server</a><br>
+<a href=https://discord.gg/GCd3JTMDHc>Plague Builds Discord server</a><br>
 
 <img>![Park](https://github.com/user-attachments/assets/68434252-f49a-4a7b-b8f0-9d10e2bc96e6)<br>
 
