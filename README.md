@@ -60,6 +60,6 @@ AFK farm tutorial: <a href="https://docs.google.com/document/d/17mNUTNTZFw4h-vKS
 The map will be regularly updated, and more projects are planned in the future. Thanks for the support, we hope you will enjoy.<br>
 
 # $${\color{red}WARNING}$$
-Any issues you encounter please report on our discord.<br>
+Any issues you encounter, like thousands of items spawned somewhere randomly in the world please report on our discord.<br>
 
 BLIX, owner of Plague Builds
