@@ -35,7 +35,7 @@ A special shoutout to $${\color{purple}LadySol}$$ for leading the team with such
 Huge thanks to the Core Keeper developers for their patience and insights, answering our questions along the way.
 
 To $${\color{yellow}Limoka}$$, your expertise with mods added so much depth to our project; we couldn't have done it without your amazing mods.<br>
-Thanks to $${\color{magenta}Limitless}$$ and $${\color{orange}CaptainStupid}$$ for their work on the FlxSNX cheat mod, we couldn't have done much with the world without their work
+Thanks to $${\color{magenta}Limitless}$$ and $${\color{orange}CaptainStupid}$$ for their work on the FlxSNX cheat mod, we couldn't have done much with the world without their work<br>
 Massive gratitude to $${\color{green}Alpogu}$$ for your insane builds, taking the project to a whole new level;<br> 
 Thank you so much $${\color{blue}Haki}$$ for creating the best race track the world has ever seen, you are an amazing builder;<br>
 Massive thanks to $${\color{lightblue}Arisa}$$ and $${\color{lightgreen}KizuGBF}$$ for pushing AFK farming to new heights.<br>
