@@ -38,6 +38,7 @@ To $${\color{yellow}Limoka}$$, your expertise with mods added so much depth to o
 Massive gratitude to $${\color{green}Alpogu}$$ for your insane builds, taking the project to a whole new level;<br> 
 Thank you so much $${\color{blue}Haki}$$ for creating the best race track the world has ever seen, you are an amazing builder;<br>
 Massive thanks to $${\color{lightblue}Arisa}$$ and $${\color{lightgreen}KizuGBF}$$ for pushing AFK farming to new heights.<br>
+A massive thanks to Mistry for making the core absolutely stunning, and helping bring a much needed visual flair to the map.<br>
 And thanks to $${\color{red}Azakha}$$ for making an amazing secret base.<br>
 Thank you all for participating and making this project unforgettable. 
 Here’s to what we’ve accomplished and to many more incredible projects ahead! 🌟
