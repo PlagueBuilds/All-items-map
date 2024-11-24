@@ -50,7 +50,7 @@ For questions, suggestions, problems, and more, join our Discord server:
 
 <a href=https://discord.gg/GCd3JTMDHc>Plague Builds Discord server</a><br>
 
-<img border: 15px solid red>![Park](https://github.com/user-attachments/assets/68434252-f49a-4a7b-b8f0-9d10e2bc96e6)<br>
+<img border:15px solid red>![Park](https://github.com/user-attachments/assets/68434252-f49a-4a7b-b8f0-9d10e2bc96e6)<br>
 
 # Credits to KizuGBF(きず) for the mob farm system.<br>
 Link to Kizu's YouTube channel: <a href="https://www.youtube.com/@KizuGBF">KizuGBF(きず) Youtube channel</a><br>
